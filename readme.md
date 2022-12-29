@@ -1,1 +1,3 @@
-# Reporte de stock a reponer (en proceso de desarrollo)
+# Reporte de stock a reponer 
+
+En proceso de desarrollo.
